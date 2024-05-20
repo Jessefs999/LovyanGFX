@@ -1329,7 +1329,7 @@ using namespace lgfx;
 #include "../Fonts/glcdfont.h"
 
 // CHANNING COPPER
-#include "../Fonts/Custom/MartinaPlantijn_Regular90pt7b.h"
+#include "../Fonts/Custom/MartinaPlantijn_Regular93pt7b.h"
 #include "../Fonts/Custom/MonumentGrotesk_Regular26pt7b.h"
 #include "../Fonts/Custom/MonumentGrotesk_Regular17pt7b.h"
 #include "../Fonts/Custom/MonumentGrotesk_Regular11pt7b.h"
