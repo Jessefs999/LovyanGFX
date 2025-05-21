@@ -1175,6 +1175,11 @@ label_nextbyte: /// 次のデータを取得する;
     #include "../Fonts/Ascii24x48.h"
     #include "../Fonts/Ascii8x16.h"
 
+    #include "../Fonts/Custom/biorhyme_11p_fontconvert.h"
+    #include "../Fonts/Custom/biorhyme_17p_fontconvert.h"
+    #include "../Fonts/Custom/biorhyme_26p_fontconvert.h"
+    #include "../Fonts/Custom/biorhyme_54p_fontconvert.h"
+
     static constexpr uint8_t font0_info[]         = {  0, 255, 5 }; // start code, end code, width
     static constexpr uint8_t font8x8c64_info[]    = { 32, 143, 8 }; // start code, end code, width
     static constexpr uint8_t fontlib24x48_info[]  = { 32, 126, 0 }; // start code, end code
